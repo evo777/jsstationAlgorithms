@@ -1,2 +1,3 @@
-# jsstationAlgorithms
-Algorithms for jsstation
+#JSStation Algorithms
+
+JSStation algorithms
